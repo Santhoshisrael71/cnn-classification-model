@@ -1,7 +1,7 @@
 
 # Developing a Convolutional Neural Network (CNN) Classification Model
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on developing a Convolutional Neural Network (CNN) model for classification tasks using deep learning techniques. The model is designed to automatically extract features from input data and classify them into predefined categories with high accuracy.
 
@@ -9,7 +9,7 @@ Convolutional Neural Networks are widely used in computer vision applications su
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * To understand the architecture of Convolutional Neural Networks (CNN)
 * To design and implement a CNN-based classification model
@@ -19,7 +19,7 @@ Convolutional Neural Networks are widely used in computer vision applications su
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 * Python
 * PyTorch / TensorFlow (depending on implementation)
@@ -30,7 +30,7 @@ Convolutional Neural Networks are widely used in computer vision applications su
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 cnn-classification-project/
@@ -43,47 +43,9 @@ cnn-classification-project/
 │── README.md
 ```
 
----
 
-## ⚙️ Installation
 
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/cnn-classification-project.git
-```
-
-2. Navigate to project folder:
-
-```
-cd cnn-classification-project
-```
-
-3. Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 Usage
-
-### Training the Model
-
-```
-python train.py
-```
-
-### Testing / Prediction
-
-```
-python predict.py
-```
-
----
-
-## 📊 Model Architecture
+##  Model Architecture
 
 The CNN model typically includes:
 
@@ -95,7 +57,7 @@ The CNN model typically includes:
 
 ---
 
-## 📈 Results
+##  Results
 
 The model performance is evaluated using:
 
